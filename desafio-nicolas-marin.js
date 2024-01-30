@@ -1,5 +1,5 @@
 class ProductManager {
-    constructor(poducts = []){
+    constructor(products = []){
         this.products = products;
         this.currentId = 1;
     }
